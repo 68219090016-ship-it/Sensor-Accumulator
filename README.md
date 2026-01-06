@@ -1,2 +1,0 @@
-# Sensor-Accumulator
-Sensor-Accumulator
